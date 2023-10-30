@@ -1,0 +1,17 @@
+[10/29/23 21:14:33][info](Logger.hpp:198) Logger init - BG3NativeCameraTweaks 20202
+[10/29/23 21:14:33][info](Settings.cpp:99) Config loaded
+[10/29/23 21:14:33][info](Hooks.h:23) GetCameraObject found: 7FF72AA85F60
+[10/29/23 21:14:33][info](Hooks.h:35) GetCurrentCameraDefinition found: 7FF72AC52B10
+[10/29/23 21:14:33][info](Hooks.h:68) Input related functions found: 7FF72A6F9680
+[10/29/23 21:14:33][info](Hooks.h:82) CameraSingleton found: 7FF72D2CB060
+[10/29/23 21:14:33][info](Hooks.h:94) bIsInControllerMode found: 7FF72D2CB050
+[10/29/23 21:14:33][info](Hooks.h:106) GetUnkPlayerObject found: 7FF72AA85E90
+[10/29/23 21:14:33][info](Hooks.h:118) GetCharacter found: 7FF72A6D3230
+[10/29/23 21:14:33][info](Hooks.h:130) GetCharacterHeight found: 7FF72AA49110
+[10/29/23 21:14:33][info](Hooks.h:179) Hooked UpdateCamera: 7FF72AA9B97E
+[10/29/23 21:14:33][info](Hooks.h:188) Hooked HandleCameraInput: 7FF72AA933B5
+[10/29/23 21:14:33][info](Hooks.h:197) Hooked CalculateCameraPitch: 7FF72AA8D9EC
+[10/29/23 21:14:33][info](Hooks.h:206) Hooked UpdateCameraPitch: 7FF72AA9C398
+[10/29/23 21:14:33][info](Hooks.h:216) Hooked UpdateCameraZoom: 7FF72AA9C3BF
+[10/29/23 21:14:33][info](Hooks.h:225) Hooked HandleToggleInputModeCall: 7FF72891B645
+[10/29/23 21:14:33][info](Hooks.h:265) DeltaYPatch found: 7FF7288DFD43

@@ -1,0 +1,6 @@
+[10/29/23 21:14:33][info](Logger.hpp:198) Logger init - BG3WASD 10803
+[10/29/23 21:14:33][info](VersionInfo.cpp:50) bg3_dx11.exe Version: 4.37.67.641
+[10/29/23 21:14:33][info](VersionInfo.cpp:50) C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\bin\NativeMods\BG3WASD.dll Version: 1.8.3.0
+[10/29/23 21:14:33][info](Settings.cpp:76) Config loaded successfully.
+[10/29/23 21:14:34][info](main.cpp:186) WASD Mod started without errors.
+[10/29/23 21:14:38][info](LoadStringHook.cpp:60) Using profile path: C:/Users/andyw/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public

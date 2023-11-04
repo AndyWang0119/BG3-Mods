@@ -181,16 +181,16 @@
       "Name": "RaritiesOfTheRealms"
     },
     {
-      "UUID": "81d10c14-3abb-41d6-a6a6-78daab7076d5",
-      "Name": "CircleofDreams"
-    },
-    {
       "UUID": "c9cfbec9-136f-40de-a12e-33650efea178",
       "Name": "CircleofWildfire"
     },
     {
       "UUID": "7588b857-8bae-4967-a73c-20f7833ae26f",
       "Name": "Circle of Stars"
+    },
+    {
+      "UUID": "81d10c14-3abb-41d6-a6a6-78daab7076d5",
+      "Name": "CircleofDreams"
     },
     {
       "UUID": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
@@ -277,16 +277,16 @@
       "Name": "UndeadWarlock"
     },
     {
+      "UUID": "11e9dcba-c739-4ce0-a51e-a909a4d3d12c",
+      "Name": "PathOfTheStormHerald"
+    },
+    {
       "UUID": "c3defb0c-7882-4040-938c-813ad6878bfb",
       "Name": "Path of the Giant"
     },
     {
       "UUID": "4ef85eef-dea6-4e78-957b-ad08b8ffa051",
       "Name": "Path of the Giant Addon"
-    },
-    {
-      "UUID": "11e9dcba-c739-4ce0-a51e-a909a4d3d12c",
-      "Name": "PathOfTheStormHerald"
     },
     {
       "UUID": "b986a6b0-6755-496c-8ea8-0fbee6b66026",

@@ -6,4 +6,4 @@
 **bin文件夹**：..\Steam\steamapps\common\Baldurs Gate 3\bin
 - 本地mod，不影响联机 <br />
 
-**Mods文件夹**：C:\Users\andyw\AppData\Local\Larian Studios\Baldur's Gate 3\Mods <br />
+**Mods文件夹**：C:\Users\...\AppData\Local\Larian Studios\Baldur's Gate 3\Mods <br />
